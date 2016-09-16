@@ -1,4 +1,7 @@
 puts "try to make a conflict"
+
+puts "new feature branch"
+
 puts "changes"
 puts "Of course it doesnt run!!!"
 puts "but it does"
