@@ -1,3 +1,18 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<<<<<<< HEAD
+puts "try to make a conflict"
+=======
+<<<<<<< HEAD
+puts "changes"
+puts "Of course it doesnt run!!!"
+puts "but it does"
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+puts "Metallica is coming"
+
+puts "MY COMMIT RULES!!!!"
+
+=======
+>>>>>>> f2d03ae929fcc4845a3e6fd2b0a47455f42cf149
+>>>>>>> cf1a01b9c90b398a488f8d99a269efc260f912e3
+
+puts "MAKE A CONFLICT"
