@@ -9,4 +9,6 @@ puts "Brandeis is Going"
 
 puts "MY COMMIT RULES!!!!"
 
-puts "its friday""
+puts "its friday"
+
+puts "hello"
