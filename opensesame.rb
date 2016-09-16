@@ -6,6 +6,7 @@ puts "but it does"
 
 puts "Brandeis is Coming"
 
+
 puts "MY COMMIT RULES!!!!"
 
-puts "MAKE A CONFLICT"
+puts "its friday""
