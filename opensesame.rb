@@ -4,7 +4,7 @@ puts "Of course it doesnt run!!!"
 puts "but it does"
 
 
-puts "Brandeis is Coming"
+puts "Brandeis is Going"
 
 
 puts "MY COMMIT RULES!!!!"
